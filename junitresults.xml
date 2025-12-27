@@ -1,0 +1,32 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="21.636707">
+<testsuite name="datadriven-xls-externalfile.spec.ts" timestamp="2025-12-23T03:58:46.793Z" hostname="chromium" tests="4" failures="0" skipped="0" time="66.572" errors="0">
+<testcase name="Functional › Login test for admin and fefwe" classname="datadriven-xls-externalfile.spec.ts" time="17.084">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\datadriven-xls-externalfil-0d4b8-in-test-for-admin-and-fefwe-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Functional › Login test for adminasd and admin123" classname="datadriven-xls-externalfile.spec.ts" time="16.412">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\datadriven-xls-externalfil-18144-t-for-adminasd-and-admin123-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Functional › Login test for Admin and admin123" classname="datadriven-xls-externalfile.spec.ts" time="19.526">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\datadriven-xls-externalfil-b130f-test-for-Admin-and-admin123-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Functional › Login test for  and " classname="datadriven-xls-externalfile.spec.ts" time="13.55">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\datadriven-xls-externalfile-Functional-Login-test-for-and--chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

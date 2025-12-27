@@ -1,0 +1,23 @@
+[
+{
+    "usrname":"wrongusr",
+    "pass":"admin123",
+    "validity":"Invalid"
+},
+{
+    "usrname":"admin",
+    "pass":"admin123",
+    "validity":"valid"
+},
+{
+    "usrname":"admin",
+    "pass":"admiasdssn123",
+    "validity":"Invalid"
+},
+{
+    "usrname":"",
+    "pass":"",
+    "validity":"Invalid"
+}
+
+]
